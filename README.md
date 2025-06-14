@@ -1,3 +1,8 @@
+---
+<div align="center">
+  <img src="images/image.png" alt="Pipeline Overview" width="600" />
+</div>
+
 # 🚀 MVP: Affiliate Traffic ROI (“CPA = \$40”)
 
 ---
